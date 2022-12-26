@@ -5,7 +5,7 @@ This is a web based application developed for Lifestyle related based website in
 ## This web based getting started application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-##Project Link* -
+##Project Link* -  https://mango-water-04745a100.2.azurestaticapps.net
 
 
 
