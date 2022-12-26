@@ -1,4 +1,4 @@
-# ✨ LIFESTYLE ✨ 
+# ✨ Photography ✨ 
 
 This is a web based application developed for Lifestyle related based website in india
 
